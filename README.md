@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AdilAwaisKhan
-- 👀 I’m interested in learning new things
-- 🌱 I’m currently learning Information Technology 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in coding,software development
+- 🌱 I’m currently seeking my graduation in Information Technology 
 - 📫 How to reach me justsayadilkhan7771@gmail.com
 
 <!---
